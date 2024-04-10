@@ -39,14 +39,6 @@ const getRandomEmployee = function(employeesArray) {
     // Select and display a random employee logic here
 }
 
-    // Display sorted employee data on the page
-    employeesArray.sort((a, b) => a.lastName.localeCompare(b.lastName));
-    console.log(employeesArray); // Log sorted employee data to console
-    displayAverageSalary(employeesArray); // Display average salary
-    getRandomEmployee(employeesArray); // Get a random employee
-});
-
-
 /*
   ====================
   STARTER CODE
