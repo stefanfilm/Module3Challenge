@@ -39,10 +39,6 @@ const getRandomEmployee = function(employeesArray) {
     // Select and display a random employee logic here
 }
 
-// Event listener for the "Add Employee" button
-addEmployeesBtn.addEventListener('click', function() {
-    employeesArray = collectEmployees();
-
     // Display sorted employee data on the page
     employeesArray.sort((a, b) => a.lastName.localeCompare(b.lastName));
     console.log(employeesArray); // Log sorted employee data to console
