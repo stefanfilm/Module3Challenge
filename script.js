@@ -2,6 +2,7 @@
 const addEmployeesBtn = document.querySelector('#add-employees-btn');
 let employeesArray = [];
 
+
 // Collect employee data
 const collectEmployees = function() {
     let addMoreEmployees = true;
@@ -10,6 +11,7 @@ const collectEmployees = function() {
         const firstName = prompt('Enter the first name:');
         const lastName = prompt('Enter the last name:');
         let salary = prompt('Enter the salary:');
+        // If salary is a number the code will be true if it is not a number it will result in an error
         salary = isNaN(parseInt(salary)) ? 0 : parseInt(salary);
 
         employeesArray.push({
@@ -19,12 +21,6 @@ const collectEmployees = function() {
         });
 
         addMoreEmployees = confirm('Do you want to add another employee?');
-
-        // Exit the loop if user cancels adding another employee
-        if (!addMoreEmployees) {
-            break;
-        }
-    }
 
     return employeesArray;
 }
@@ -36,8 +32,9 @@ const displayAverageSalary = function(employeesArray) {
 
 // Select a random employee
 const getRandomEmployee = function(employeesArray) {
-    // Select and display a random employee logic here
+    
 }
+
 
 /*
   ====================
