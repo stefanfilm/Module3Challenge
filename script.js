@@ -22,6 +22,12 @@ const collectEmployees = function() {
 
         addMoreEmployees = confirm('Do you want to add another employee?');
 
+        // Exit the loop if user cancels adding another employee
+        if (!addMoreEmployees) {
+            break;
+        }
+    }
+
     return employeesArray;
 }
 
@@ -34,7 +40,6 @@ const displayAverageSalary = function(employeesArray) {
 const getRandomEmployee = function(employeesArray) {
     
 }
-
 
 /*
   ====================
