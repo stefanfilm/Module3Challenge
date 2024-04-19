@@ -26,7 +26,7 @@ I worked with starter code from UC Berkeley Coding Bootcamp under the instructio
 
 ## License
 
-The code belongs to UC Berkeley Coding Bootcamp. 
+Refer to the GitHub page. The code belongs to UC Berkeley Coding Bootcamp. 
 
 ---
 
@@ -35,4 +35,4 @@ The code belongs to UC Berkeley Coding Bootcamp.
 ## Badges
 
 ![HTML-CSS](https://img.shields.io/badge/HTML-CSS-green)
-![JavaScript] (https://img.shields.io/badge/JavaScript-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-blue)
