@@ -28,10 +28,6 @@ I worked with starter code from UC Berkeley Coding Bootcamp under the instructio
 
 Refer to the GitHub page. The code belongs to UC Berkeley Coding Bootcamp. 
 
----
-
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-
 ## Badges
 
 ![HTML-CSS](https://img.shields.io/badge/HTML-CSS-green)
