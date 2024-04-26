@@ -6,11 +6,11 @@ My motivation for this project was to create an efficient way to input employee 
 
 ## Deployed Site
 
-https://stefanfilm.github.io/Module3Challenge/
+https://stefanfilm.github.io/RefactorEmployeeData/
 
 ## Installation
 
-To install the project, pull the code from https://github.com/stefanfilm/Module3Challenge and open it in a code editor. Open the script.js file in the code editor and view the JavaScript. You could open the index.html file in a browser to see the code function.
+To install the project, pull the code from https://github.com/stefanfilm/RefactorEmployeeData and open it in a code editor. Open the script.js file in the code editor and view the JavaScript. You could open the index.html file in a browser to see the code function.
 
 ## Usage
 
